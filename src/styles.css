@@ -1,0 +1,86 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #def5e5;
+}
+
+.container-left {
+  vertical-align: top;
+  display: inline-block;
+  margin: 4% auto;
+  padding-bottom: 9px;
+  margin-left: 202px;
+  height: 510.438px;
+  width: 466.547px;
+  text-align: center;
+  color: #8ec3b0;
+  background-color: #2e4f4f;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  box-shadow: 11px 10px 8px #888888;
+}
+.container-right {
+  display: inline-block;
+  height: 100%;
+  width: 35%;
+  margin: 4% auto;
+  text-align: center;
+  background-color: #8ec3b0;
+  padding-top: 9.5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 8px 10px 8px #888888;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+  padding: 0%;
+}
+.container-left h1 {
+  padding-top: 200px;
+}
+.container-right input {
+  border: 1px solid rgba(252, 252, 252, 0.4);
+  background-color: rgba(252, 252, 252, 0.2);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 10px;
+  margin: 10px 50px;
+  display: block;
+  text-align: left;
+  font-size: 16px;
+  color: #2e4f4f;
+  font-weight: 300;
+}
+.cont-title {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #2e4f4f;
+  margin-bottom: 17px;
+  text-align: left;
+  padding-left: 50px;
+}
+.sub-title {
+  margin: 8px 50px 10px;
+  padding: 10px 0px 0px 0px;
+  text-align: left;
+  color: #2e4f4f;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+}
+button {
+  font-family: "Source Sans Pro", sans-serif;
+  appearance: none;
+  outline: 0;
+  background-color: #def5e5;
+  border: 0;
+  margin: 15px 97px 30px 0px;
+  padding: 10px 15px;
+  color: #2e4f4f;
+  border-radius: 3px;
+  width: 273px;
+  font-size: 16px;
+}
